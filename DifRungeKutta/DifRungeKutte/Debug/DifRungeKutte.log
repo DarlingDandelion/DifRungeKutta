@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (DifRungeKutte.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.c
+d:\study\параллельное программирование\difrungekutta\difrungekutte\source.c(9): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\study\параллельное программирование\difrungekutta\difrungekutte\source.c(15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\study\параллельное программирование\difrungekutta\difrungekutte\source.c(31): warning C4101: 'result': unreferenced local variable
+d:\study\параллельное программирование\difrungekutta\difrungekutte\source.c(32): warning C4101: 'n': unreferenced local variable
+  DifRungeKutte.vcxproj -> D:\Study\Параллельное программирование\DifRungeKutta\Debug\DifRungeKutta.exe
